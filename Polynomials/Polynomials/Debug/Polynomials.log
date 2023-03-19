@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(93,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(127,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(140,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(171,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(185,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(217,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(231,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(434,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Polynomial.cpp
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(93,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(127,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(140,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(171,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(185,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(217,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(231,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(434,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\github\Computer-Graphics\Polynomials\Polynomials\Polynomial.h(323): warning C4172: возвращение адреса локальной или временной переменной : list
+  Polynomials.vcxproj -> D:\github\Computer-Graphics\Polynomials\Debug\Polynomials.exe
